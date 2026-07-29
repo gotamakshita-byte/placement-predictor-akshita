@@ -16,25 +16,6 @@ An AI-powered Streamlit application that predicts student placement chances and 
 - Python 3.8+
 - pip or conda
 
-### Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/sangamsharma2152/placement-predictor.git
-cd placement-predictor
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the Streamlit app:
-```bash
-streamlit run app.py
-```
-
-The app will open in your browser at `http://localhost:8501`
 
 ## Project Structure
 
