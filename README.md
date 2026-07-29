@@ -10,8 +10,6 @@ An AI-powered Streamlit application that predicts student placement chances and 
 - **🧠 Insights & Recommendations**: Get personalized suggestions for improvement
 - **🎨 Beautiful UI**: Modern interface with animated backgrounds
 
-## Installation
-
 ### Prerequisites
 - Python 3.8+
 - pip or conda
